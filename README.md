@@ -6,7 +6,7 @@ A Blockchain developer teaching and helping people enter and transition from Web
 
 👨‍💻 All of my projects are available at [https://bouhouchmed.github.io]
 
-📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/medbouhouch)
+📝 I regularly write articles on [https://dev.to/daltonic]
 
 💬 Ask me about Blockchain Development
 
