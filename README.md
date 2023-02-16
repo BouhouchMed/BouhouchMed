@@ -6,11 +6,11 @@ A Blockchain developer teaching and helping people enter and transition from Web
 
 👨‍💻 All of my projects are available at [https://bouhouchmed.github.io]
 
-📝 I regularly write articles on https://dev.to/daltonic
+📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/medbouhouch)
 
 💬 Ask me about Blockchain Development
 
-📫 How to reach me darlingtongospel@gmail.com
+📫 How to reach me medbouhouch1@gmail.com
 
 📄 Know about my experiences Resume
 
@@ -28,8 +28,3 @@ How to Build an Exciting Blockchain Voting System with React, Solidity, and Come
 Languages and Tools:
 angular angularjs bootstrap css3 firebase git html5 illustrator javascript mongodb mysql nodejs pandas photoshop php react reactnative sass scikit_learn tailwind typescript vuejs vuetify
 
-daltonic
-
- daltonic
-
-daltonic
