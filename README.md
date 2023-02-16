@@ -4,13 +4,13 @@ A Blockchain developer teaching and helping people enter and transition from Web
 
 🗓️ Do you need help with a problem? Schedule Your Sessions with Me
 
-👨‍💻 All of my projects are available at https://bouhouchmed.github.io
+👨‍💻 All of my projects are available at https://BouhouchMed.github.io
 
 📝 I regularly write articles on https://dev.to/MedBouhouch
 
 💬 Ask me about Blockchain Development
 
-📫 How to reach me medbouhouch1@gmail.com
+📫 How to reach me MedBouhouch1@gmail.com
 
 📄 Know about my experiences Resume
 
