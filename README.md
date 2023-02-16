@@ -4,9 +4,9 @@ A Blockchain developer teaching and helping people enter and transition from Web
 
 🗓️ Do you need help with a problem? Schedule Your Sessions with Me
 
-👨‍💻 All of my projects are available at [https://bouhouchmed.github.io]
+👨‍💻 All of my projects are available at https://bouhouchmed.github.io
 
-📝 I regularly write articles on [https://dev.to/daltonic]
+📝 I regularly write articles on https://dev.to/medbouhouch
 
 💬 Ask me about Blockchain Development
 
